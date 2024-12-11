@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+form{
+  display: inline-block;
+  padding: 20px;
+  background-color: aqua;
+}
+form label{
+  display: inline-block;
+  width: 120px;
+}
+form div{
+   margin: 15px;
+}
+.profilePicPreview{
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+}
+na{
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
